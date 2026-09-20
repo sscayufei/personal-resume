@@ -1,0 +1,12 @@
+% Personal information template
+% 复制为 personal-info.tex 后填写真实信息。
+% personal-info.tex 已加入 .gitignore，不要提交到 GitHub。
+
+\name{姓名}
+
+% {手机号}{邮箱}{求职方向}{GitHub}
+\contactInfo
+  {(+86) 123-4567-8901}
+  {xxx@example.com}
+  {后端开发 / Agent 开发}
+  {GitHub @username}
